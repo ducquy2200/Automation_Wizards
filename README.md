@@ -2,7 +2,7 @@
 
 An introduction to Bots and Automation. 
 
-Offered during Fall 2020 of UW Coffee N' Code.
+Offered during Fall 2020 of UW Coffee N' Code
 
 ## Overview
 
